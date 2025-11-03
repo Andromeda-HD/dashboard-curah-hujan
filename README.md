@@ -36,8 +36,6 @@ Dashboard ini menampilkan data curah hujan di Provinsi Kalimantan Timur tahun 20
 
 ├── curah_hujan_kaltim.json # Data curah hujan format JSON
 
-├── /assets/ # (opsional) ikon, logo, dan stylesheet tambahan
-
 └── README.md # Dokumentasi proyek
 
 ## Teknologi yang Digunakan
